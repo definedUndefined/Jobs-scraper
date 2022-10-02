@@ -4,9 +4,9 @@ Job scraper is a bot built on top of [Puppeteer](https://github.com/puppeteer/pu
 
 ### Websites :
 - [x] [Monster](https://www.monster.fr/)
-- [] [Indeed](https://fr.indeed.com/)
-- [] [Linkedin](https://www.linkedin.com/)
-- [] [Welcometothejungle](https://www.welcometothejungle.com/fr/jobs)
+- [ ] [Indeed](https://fr.indeed.com/)
+- [ ] [Linkedin](https://www.linkedin.com/)
+- [ ] [Welcometothejungle](https://www.welcometothejungle.com/fr/jobs)
 
 ## Getting started
 
